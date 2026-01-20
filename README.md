@@ -102,4 +102,5 @@ IoT개발자 과정 사전학습 리포지토리
      <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/ca23c2a1-f417-4ce4-80d5-8f129c7831a7" />
   8. cmd 또는 powershell 오픈, `python --version` 실행
   9. VS Code,Exension에서 python을 검색, 설치
+  10. VS Code를 재오픈 폴더 생성
 - 프로그램 개발 개념
