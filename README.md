@@ -76,3 +76,18 @@ IoT개발자 과정 사전학습 리포지토리
        - https://desktop.github.com/download/ 에서 다운로드 클릭, 설치
        - 계정 브라우저 연동
     4. 리포지토리 클론
+       -  github desktop 메뉴 clone repository 클릭
+       -  gitgub.com 탭에서 저장소 검색, 선택
+       -  Local Path 지정 후 클론 버튼 클릭
+      
+- Visual Studio Code 설치
+  1. https://code.visualstudio.com/docs/?dv=win64user 다운로드 클릭
+  2. 설치 `C:\DEV\IDE\Microsoft VS Code`에 설치
+  3. Extensions > Korean Pack for Visual Studio Code 설치 후 재시작
+
+- 추가 설치 프로그램
+  1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
+  2. 픽픽 - https://picpick.net/
+ 
+- **파이썬** 개발환경 설정
+  1.
